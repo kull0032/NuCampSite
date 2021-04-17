@@ -1,8 +1,8 @@
 body {
-  font-family: "Open Sans", sans-serif; }
+  font-family: Open Sans, sans-serif; }
 
 h1, h2, h3 {
-  font-family: "Lobster", cursive; }
+  font-family: Lobster, cursive; }
 
 h2 {
   color: #3046C5; }
@@ -46,3 +46,11 @@ a, a:hover {
   right: 0;
   bottom: 0;
   z-index: 100; }
+
+#reserveModal div .modal-header {
+  background-color: #17A2B8;
+  color: white; }
+
+#loginModal div .modal-header {
+  background-color: #901CAD;
+  color: white; }
